@@ -3,7 +3,7 @@
 
 **Enthusiastic to become a Data Scientist**
 
-Here are some ideas get know about me:
+Here are some ideas get to know about me:
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Matplotlib,Seaborn for Data visualization
