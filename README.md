@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi, I'm Din Mohammad Dohan
 
 
-**din813/din813** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Enthusiastic to become a Data Scientist**
 
-Here are some ideas to get you started:
+Here are some ideas get know about me:
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Matplotlib,Seaborn for Data visualization
