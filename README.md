@@ -8,6 +8,9 @@
 - Contact: dinmdohan813@gmail.com || https://www.linkedin.com/in/din813/
 - Interest: Data Science || Machine Learning || Data Analysis
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=din813&&style=flat-square" align="center" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=din813&show_icons=true&locale=en" alt="din813" /></p>
 
 
