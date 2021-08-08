@@ -3,10 +3,10 @@
 
 **Enthusiastic to become a Data Scientist**
 
-- I'm currently working on Data Science
-- Recently learning Data Science course
+- I'm currently learning on Data Science and Machine Learning
+- Recently competitor at 30 Days of ML challenge on kaggle
 - Contact: dinmdohan813@gmail.com || https://www.linkedin.com/in/din813/
-- Interest: Data Science || Machine Learning || Data Analysis || Web Development || Ethical Hacking || Bengali Literature || Recitation || Travelling || Charity Work
+- Interest: Data Science || Machine Learning || Data Analysis
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=din813&show_icons=true&locale=en" alt="din813" /></p>
 
