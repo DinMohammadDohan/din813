@@ -10,6 +10,7 @@
 - Interest: Data Science || Machine Learning || Data Analysis
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=din813&show_icons=true&locale=en" alt="din813" /></p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=din813&show_icons=true alt=din813 /> </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=din813&langs_count=8)](https://github.com/din813/github-readme-stats)
