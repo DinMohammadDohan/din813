@@ -9,6 +9,11 @@
 - Contact: dinmdohan813@gmail.com || https://www.linkedin.com/in/din813/
 - Interest: Data Science || Machine Learning || Data Analysis
 
+<p align="center">
+<a href="mailto:dinmdohan813@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-dinmdohan813@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/din813"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-din813-blue?style=flat&logo=linkedin"></a>
+</p>
+
 <p align="Left"> <img src=https://github-readme-stats.vercel.app/api?username=din813&show_icons=true alt=din813 /> </p>
 
 
