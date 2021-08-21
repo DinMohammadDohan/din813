@@ -27,5 +27,3 @@
      </tr>
    </table>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=din813&langs_count=8)](https://github.com/din813/github-readme-stats)
