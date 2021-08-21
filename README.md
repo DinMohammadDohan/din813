@@ -15,6 +15,19 @@
 <a href="https://www.linkedin.com/in/din813"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-din813-blue?style=flat&logo=linkedin"></a>
 </p>
 
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=din813&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=din813&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
+
 <p align="Left"> <img src=https://github-readme-stats.vercel.app/api?username=din813&show_icons=true alt=din813 /> </p>
 
 
