@@ -22,7 +22,7 @@
        <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=din813&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=din813&show_icons=true&theme=blue"> </td>
        <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=din813&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
      </tr>
    </table>
