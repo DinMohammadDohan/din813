@@ -1,7 +1,7 @@
 ### Hi, I'm Din Mohammad Dohan
 
 
-**Enthusiastic to become a Data Scientist**
+**Enthusiastic to become a Data Analyst and Data Scientist**
 
 - Undergraduate Student in the Department of Computer Science at American International University-Bangladesh (AIUB).
 - I'm currently learning on Data Science and Machine Learning
