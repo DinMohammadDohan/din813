@@ -3,10 +3,9 @@
 
 **Enthusiastic to become a Data Analyst and Data Scientist**
 
-- Undergraduate Student in the Department of Computer Science at American International University-Bangladesh (AIUB).
+- Undergraduate Student in the Department of Computer Science at American International University-Bangladesh (AIUB)
 - I'm currently learning on Data Science and Machine Learning
-- Recently competitor at 30 Days of ML challenge on kaggle
-- Interest: Data Science || Machine Learning || Data Analysis
+- Interest: Data Science || Machine Learning || Data Analysis || Data Visualization
 
 <h3 align="center"> Connect with Me at </h3>
 <p align="center">
