@@ -1,10 +1,10 @@
 ### Hi, I'm Din Mohammad Dohan
 
 
-**Enthusiastic to become a Data Analyst || Data Scientist || Web Developer**
+**Enthusiastic to become a Data Analyst || Data Scientist || Full Stack Web Developer**
 
 - Ex-Undergraduate Student in the Department of Computer Science at American International University-Bangladesh (AIUB)
-- I'm currently learning Laravel Backend Framework for Web Devlopment
+- I'm currently learning Laravel Backend Framework for Web Development
 - Interest: Web Development || Data Science || Machine Learning || Data Analysis || Data Visualization
 
 <h3 align="center"> Connect with Me at </h3>
