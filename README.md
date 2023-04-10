@@ -3,7 +3,7 @@
 
 **Enthusiastic to become a Data Analyst || Data Scientist || Full Stack Web Developer**
 
-- Ex-Undergraduate Student in the Department of Computer Science at American International University-Bangladesh (AIUB)
+- MS CSE Student @ BRAC University
 - I'm currently learning Laravel Backend Framework for Web Development
 - Interest: Web Development || Data Science || Machine Learning || Data Analysis || Data Visualization
 
